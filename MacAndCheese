@@ -1,0 +1,22 @@
+<!-- Type:Soup -->
+<!-- Cook:JEmery -->
+
+# Mac n' Cheese
+
+\begin{recipe}{Mac N' Cheese}{2}{30 Min}
+
+\ingredient{2}{Tablespoon}{Butter}
+\ingredient{300}{grams}{Pasta}
+\ingredient{200}{ml}{Milk}
+
+1. Boil Pasta
+2. Empty Water
+3. Add Seasoning
+4. Add Milk
+5. Add Butter
+
+\begin{comment}
+    Note: keep adding ingredients and instructions to finish the recipe.
+\end{comment}
+
+\end{recipe}
