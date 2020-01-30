@@ -23,5 +23,5 @@ Once blended, pour the mixture into your greased pan.
 
 \end{recipe}
 
-<! -- Type:Dessert -->
-<! -- Cook:Cecile -->
+<! --- Type:Dessert --->
+<! --- Cook:Cecile --->
