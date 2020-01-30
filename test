@@ -1,0 +1,14 @@
+<!-- Type:Soup -->
+<!-- Cook:JEmery -->
+
+# Yummy Stew
+
+\begin{recipe}[Yummy stew]{15 servings}{36 hours}
+\freeform Get out your pots. Give them a polish first.
+\ingredient[10]{q.}{Water}
+\ingredient[15]{chopped carrots}
+
+Put them in the pots. Boil for 20 minutes and simmer for 20 hours.
+
+\freeform Serve with parsley and pair with Lambrusco
+\end{recipe}
